@@ -1,3 +1,3 @@
 # FourierNet
 
-coming soon ..
+coming soon ...
